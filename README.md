@@ -1,9 +1,11 @@
-- Hi, I’m Rinzin Norbu
-- I have been working as a frontend developer at Dragon Coders Private Limited since 2019.
-- Bringing more than 3 years of experience leading web app, website design and mobile application projects, including gathering user requirements, producing code, creating mockups and enhancing designs. Focused on creating clean, robust code with exceptional security. Achieves compatibility targets while meeting and exceeding customer demands.
-- Linklined: https://www.linkedin.com/in/rinzin-norbu-6638a51a7.
-- Email: rinzinbht2018@gmail.com.
-- Contact: 975 17439138.
+### **Hi there** 👋
+This is Rinzin, I am a software developer at [Dragon Coders](https://dcpl.bt).
+* ##### 🔭 I’m currently working on React Native, React and Angular.
+* ##### 🌱 I’m currently learning TypeScript and Django.
+* ##### 📫 How to reach me: rinzinbht2018@gmail.com or on [twitter](https://twitter.com/RinzinNorbu10/).
+
+## Connect with me:
+[:linklined:](https://www.linkedin.com/in/rinzin-norbu-6638a51a7/)
 
 <!---
 Rinzin2018/Rinzin2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
