@@ -1,5 +1,5 @@
 ### **Hi there** 👋
-#### This is Rinzin, I am a software developer at [Dragon Coders](https://dcpl.bt).
+#### This is Rinzin, I am a software developer for more than 4 years.
 - ###### 🔭 I’m currently working on React Native, React and Angular.
 - ###### 🌱 I’m currently learning TypeScript and Django.
 - ###### 📫 How to reach me: rinzinbht2018@gmail.com or on [twitter](https://twitter.com/RinzinNorbu10/).
